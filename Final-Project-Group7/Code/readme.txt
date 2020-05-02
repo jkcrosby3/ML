@@ -4,3 +4,4 @@
 4. Create a subfolder named 'data_subset_2'. Make sure labels.csv is in that folder
 5. Create a folder named 'data_random'. put the 'Extractions_Download.py' file here and run it to download the images into this folder.  There should be 1500 images.
 
+Run the 'train_finalproject.py' file.
